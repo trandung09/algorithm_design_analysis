@@ -1,5 +1,3 @@
-package helper;
-
 public class WordCount {
     
     private String word;

@@ -1,7 +1,3 @@
-
-
-import helper.Job;
-
 import java.util.*;
 
 public class WeightedIntervalScheduling {
