@@ -1,0 +1,8 @@
+An,Nguyen Hoang,4/12/2004,Ha Noi
+Anh,Tran Duc,3/9/2004,Ninh Binh
+Anh,Nguyen Quynh,8/24/2004,Nghe An
+Bao,Pham Van,10/17/2004,Nam Dinh
+Dung,Bui Huy,12/30/2004,Nam Dinh
+Hai,Le Van,11/10/2004,Nghe An
+Hoa,Nguyen Mai,5/10/2004,Nghe An
+Hoa,Nguyen Mai,3/10/2004,Nghe An
